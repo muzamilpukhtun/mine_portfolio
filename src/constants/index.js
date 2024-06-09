@@ -130,7 +130,7 @@ import {
       company_name: "Tesla",
       icon: mongodb,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Feb 2022",
+      date: "Jan 2023 - June 2023",
       points: [
         "Developing and maintaining server-side applications using Node.js, Express, and other related technologies.",
         "Collaborating with cross-functional teams including front-end developers, designers, product managers, and other stakeholders to create high-quality products.",
@@ -147,7 +147,7 @@ import {
       company_name: "Shopify",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "June 2023 - Dec 2023",
       points: [
         "Developing and maintaining websites and web applications using popular CMS platforms such as WordPress, Drupal, or Joomla, along with related technologies.",
         "Collaborating with cross-functional teams including designers, content creators, product managers, and other developers to create high-quality, content-rich products.",
@@ -160,7 +160,7 @@ import {
       company_name: "Meta",
       icon: nodejs,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Dec 2023 - Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
