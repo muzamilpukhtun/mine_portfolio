@@ -1,4 +1,8 @@
 import logo from "./logo.svg";
+import khtube from "./khtube.jpg";
+import muzamil from "./muzamil.jpg";
+import pic from "./pic.svg";
+import picture from "./picture.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -21,16 +25,18 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
+
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  muzamil,
+  khtube,
+  picture,
+  pic,
   logo,
   backend,
   creator,
@@ -52,10 +58,7 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
   shopify,
-  starbucks,
-  tesla,
   carrent,
   jobit,
   tripguide,

@@ -14,8 +14,9 @@ const Ball = (props) => {
         <meshStandardMaterial color='#fff8eb' polygonOffset polygonOffsetFactor={-5} flatShading />
         <Decal
           position={[0, 0, 1]}
+          scale={1.2}
           map={texture}
-          rotation={[2*Math.PI,0,6.25]}
+          rotation={[2*Math.PI,0,0]}
           flatShading
         />
       </mesh>
